@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-size: 4vw;">
-  <b>Hello Programmers! <a href="https://github.com/SYAHYOGA" target="blank">SYAHYOGA</a> Was Here</b>
+  <b>Hello Programmers! <a href="syahyoga.github.io" target="blank">SYAHYOGA</a> Was Here</b>
 </h1>
 <div align="center" style="margin-top: 3%;">
   <a href="https://www.github.com/SYAHYOGA"><img width="6.5%" height="6.5%" style="background: linear-gradient(to right, #009BFF, #5ABEFF); border-radius: 3px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg"></a>
